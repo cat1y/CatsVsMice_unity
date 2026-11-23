@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 7384df3e66effcc49805a8803c1c8527
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6034804815082696025
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_0"
+  - first:
+      213: 3792161043493231926
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_1"
+  - first:
+      213: -4938739951995156052
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_2"
+  - first:
+      213: -8134233944637890861
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_3"
+  - first:
+      213: -116492977333247708
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_4"
+  - first:
+      213: -5383253655829648208
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_5"
+  - first:
+      213: 2448796501365483182
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_6"
+  - first:
+      213: 6139083619780814956
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_7"
+  - first:
+      213: -1618805878491367204
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_8"
+  - first:
+      213: 3016908676174928314
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_9"
+  - first:
+      213: 1498618095956736688
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_10"
+  - first:
+      213: -8922429384051000328
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_11"
+  - first:
+      213: -8247554820273904865
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_12"
+  - first:
+      213: 2478160139107541506
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_13"
+  - first:
+      213: 420513746610749915
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_14"
+  - first:
+      213: 1591089023322990462
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_15"
+  - first:
+      213: -2688648991462862351
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_16"
+  - first:
+      213: 2961044327897287430
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_17"
+  - first:
+      213: -3224060391392219607
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_18"
+  - first:
+      213: -1707118602177085957
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_19"
+  - first:
+      213: 5162754993465359717
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_20"
+  - first:
+      213: 419199859312656955
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_21"
+  - first:
+      213: 5119990133926286453
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_22"
+  - first:
+      213: 7170194505274016195
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_23"
+  - first:
+      213: 2316299581315120082
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_24"
+  - first:
+      213: -2327030856912304559
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_25"
+  - first:
+      213: 6179071097842314841
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_26"
+  - first:
+      213: 4089277577343502300
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_27"
+  - first:
+      213: 560749268445157829
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_28"
+  - first:
+      213: -8173326985571135853
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_29"
+  - first:
+      213: -5003075675421098525
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_30"
+  - first:
+      213: -8021201012908135559
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_31"
+  - first:
+      213: 3412622755501265669
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_32"
+  - first:
+      213: -443644987485389959
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_33"
+  - first:
+      213: 4090019215722920032
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_34"
+  - first:
+      213: 5099305264034954585
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_35"
+  - first:
+      213: -3365066213095810229
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_36"
+  - first:
+      213: -1909499997458891769
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_37"
+  - first:
+      213: -5963950471369635990
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_38"
+  - first:
+      213: 7503255575574120395
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_39"
+  - first:
+      213: 2554245997806817170
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_40"
+  - first:
+      213: -2061227699346043016
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_41"
+  - first:
+      213: -5697680274130639548
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_42"
+  - first:
+      213: 1932503107208337703
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_43"
+  - first:
+      213: 1886932984597489233
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_44"
+  - first:
+      213: 5872599766294224396
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_45"
+  - first:
+      213: 5201429410958256910
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_46"
+  - first:
+      213: -8517857413968385974
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_47"
+  - first:
+      213: 8630541081721879216
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_48"
+  - first:
+      213: -4607273917994495790
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_49"
+  - first:
+      213: -1076902095780038286
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_50"
+  - first:
+      213: 3372112319171436942
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_51"
+  - first:
+      213: -8046531188879585899
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_52"
+  - first:
+      213: 12401748267077963
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_53"
+  - first:
+      213: -6991107170336684439
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_54"
+  - first:
+      213: 2314172732609593795
+    second: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_55"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_0"
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 464
+        width: 311
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2dd249ef0104ca0800000000000000
+      internalID: -6034804815082696025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 303d5345f780945488c9a51475744d7a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1280.0,"y":853.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "\u043F\u0443\u043B\u0438-edited-free (carve.photos) (1)_0": -6034804815082696025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
